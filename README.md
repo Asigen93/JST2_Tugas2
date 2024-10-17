@@ -1,2 +1,2 @@
-# JST2_Tugas2
+# JST_Tugas
 Jaringan Syaraf Tiruan
